@@ -16,3 +16,10 @@ A small Python module that screens prospective blood donor cohorts based on age,
 Keep all your Lab 6 work in this `LAB6` folder. Lab 7 will be added to this repo later.
 
 Refer to the lab handout for instructions.
+
+---
+
+## 👤 Author
+
+* **Tanmayi Nagabhairava** ([@Tanmayi-n14](https://github.com/Tanmayi-n14)) — `PES1UG24CS493`
+* Department of Computer Science & Engineering, PES University
