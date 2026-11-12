@@ -17,9 +17,3 @@ Keep all your Lab 6 work in this `LAB6` folder. Lab 7 will be added to this repo
 
 Refer to the lab handout for instructions.
 
----
-
-## 👤 Author
-
-* **Tanmayi Nagabhairava** ([@Tanmayi-n14](https://github.com/Tanmayi-n14)) — `PES1UG24CS493`
-* Department of Computer Science & Engineering, PES University
